@@ -526,7 +526,7 @@ export default function App() {
             
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-8">
               <div>
-                <h1 className="text-2xl md:text-3xl font-semibold mb-1">Fase de Grupos</h1>
+                <h1 className="text-2xl md:text-3xl font-semibold mb-1">Fixture</h1>
                 <p className="opacity-70 text-sm">Completa los resultados para simular la clasificación.</p>
               </div>
             </div>
